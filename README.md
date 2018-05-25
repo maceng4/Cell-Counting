@@ -9,3 +9,6 @@ This program reads in microscope images of cells. Through different methods sele
 
 # Then we want to initialize a class: cellector
 # with various functions that will: alter images (cell filtering), find neurons and not-neurons (cell finding), and count cells 
+
+r = 1
+print(r) 
